@@ -140,7 +140,7 @@ linkLabel.Parent = mainFrame
 local function copyToClipboard()
 	local success, errorMessage = pcall(function()
 		-- Устанавливаем текст в буфер обмена
-		setclipboard("https://robiox.com.af/games/663254280/c00lkidd-Script-Menu?privateServerLinkCode=69155647945445362618402496055839")
+		setclipboard("https://go.linkify.ru/2Gd1")
 	end)
 	
 	if success then
