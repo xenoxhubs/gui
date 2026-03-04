@@ -140,7 +140,7 @@ linkLabel.Parent = mainFrame
 local function copyToClipboard()
 	local success, errorMessage = pcall(function()
 		-- Устанавливаем текст в буфер обмена
-		setclipboard("https://shrinkme.click/xqchub")
+		setclipboard("https://shrinkme.click/V4X6acb")
 	end)
 	
 	if success then
